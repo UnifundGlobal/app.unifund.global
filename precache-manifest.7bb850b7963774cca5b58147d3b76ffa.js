@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4cbcc09edbff4ba2cf0030be218c070",
+    "revision": "692e3a32b1ce26166260104fd098dc66",
     "url": "./index.html"
   },
   {
-    "revision": "8442ff6e28118dba3f56",
+    "revision": "1a60ac2e5e5b65b44044",
     "url": "./static/css/3.5296f8bb.chunk.css"
   },
   {
@@ -12,32 +12,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/0.0bea0b6a.chunk.js"
   },
   {
-    "revision": "8442ff6e28118dba3f56",
-    "url": "./static/js/3.361cc244.chunk.js"
+    "revision": "1a60ac2e5e5b65b44044",
+    "url": "./static/js/3.84255ae2.chunk.js"
   },
   {
     "revision": "af2631cd50470c2af164a401a954fff1",
-    "url": "./static/js/3.361cc244.chunk.js.LICENSE.txt"
+    "url": "./static/js/3.84255ae2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "16a8611d4f1809adc27e",
-    "url": "./static/js/4.6ae7b7b7.chunk.js"
+    "revision": "c180bb29deec4bf9a318",
+    "url": "./static/js/4.c167edf1.chunk.js"
   },
   {
     "revision": "eadfb9fed6db167c2c0736c25e993e8f",
-    "url": "./static/js/4.6ae7b7b7.chunk.js.LICENSE.txt"
+    "url": "./static/js/4.c167edf1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2a020404ff4790e86f4f",
-    "url": "./static/js/5.6935ca52.chunk.js"
+    "revision": "eed5abdb94ca1c8cc66f",
+    "url": "./static/js/5.d7408d0b.chunk.js"
   },
   {
-    "revision": "45e607ee91f1f211e40f",
-    "url": "./static/js/6.05f8f9ad.chunk.js"
+    "revision": "94406fbb0f7a91c868c1",
+    "url": "./static/js/6.a010380d.chunk.js"
   },
   {
     "revision": "c178649ae0de162657ef6caa733cc024",
-    "url": "./static/js/6.05f8f9ad.chunk.js.LICENSE.txt"
+    "url": "./static/js/6.a010380d.chunk.js.LICENSE.txt"
   },
   {
     "revision": "784898bf4de51b3f8e2c",
@@ -48,12 +48,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/8.cbc576aa.chunk.js"
   },
   {
-    "revision": "0d8733b77b75e4041d9a",
-    "url": "./static/js/main.9ef3e66f.chunk.js"
+    "revision": "17e04268522b0aaf9a77",
+    "url": "./static/js/main.cfa1003a.chunk.js"
   },
   {
-    "revision": "c3588ef663eceb67c2f9",
-    "url": "./static/js/runtime-main.deb5f2fb.js"
+    "revision": "83867ac51466a65456b2",
+    "url": "./static/js/runtime-main.62b06110.js"
   },
   {
     "revision": "14a450a3d2fd191fcefa23b273baaf14",
@@ -212,48 +212,48 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Inter.var.f065685b.woff2"
   },
   {
-    "revision": "cd061363bbf9cd7a26cb09b642dcaf63",
-    "url": "./static/media/arrow-down-blue.cd061363.svg"
+    "revision": "114fab910be089671a355764e2326334",
+    "url": "./static/media/arrow-down-blue.114fab91.svg"
   },
   {
-    "revision": "c0dedd2f2ed0c4d07d7ca75af3f0a65f",
-    "url": "./static/media/arrow-down-grey.c0dedd2f.svg"
+    "revision": "4d4a6a99f8bc24af0fcf805146d38a46",
+    "url": "./static/media/arrow-down-grey.4d4a6a99.svg"
   },
   {
     "revision": "337ad716bd89163e2a9c3495b7e0f029",
     "url": "./static/media/arrow-right-white.337ad716.png"
   },
   {
-    "revision": "d285b6cf22b4f1552bb4009333462632",
-    "url": "./static/media/arrow-right.d285b6cf.svg"
+    "revision": "e96d8158ff6d3087ab15e43e64fbb47e",
+    "url": "./static/media/arrow-right.e96d8158.svg"
   },
   {
-    "revision": "fc853bd43156c204949642e5172c0b17",
-    "url": "./static/media/blue-loader.fc853bd4.svg"
+    "revision": "2d7e058edcef77a79ce03bfba8da70b9",
+    "url": "./static/media/blue-loader.2d7e058e.svg"
   },
   {
-    "revision": "ed2a1dad16cb9a4b9afd788ddaae7290",
-    "url": "./static/media/circle-grey.ed2a1dad.svg"
+    "revision": "5dd950ec66be581e8da4376f49a19d77",
+    "url": "./static/media/circle-grey.5dd950ec.svg"
   },
   {
-    "revision": "2d975615c4c409c3b6b00e8ae7c5767a",
-    "url": "./static/media/circle.2d975615.svg"
+    "revision": "716403ba670c3577abbea8e66f428721",
+    "url": "./static/media/circle.716403ba.svg"
   },
   {
-    "revision": "62578f5994645a1825d4829e2c4394b0",
-    "url": "./static/media/coinbaseWalletIcon.62578f59.svg"
+    "revision": "aa4c7a7647abc7ede02e017c1a0141b6",
+    "url": "./static/media/coinbaseWalletIcon.aa4c7a76.svg"
   },
   {
-    "revision": "b20914ec5482543a0b1b2c6d5509ab96",
-    "url": "./static/media/dropdown-blue.b20914ec.svg"
+    "revision": "80a3ae258c229f3c874a8acdf65adeea",
+    "url": "./static/media/dropdown-blue.80a3ae25.svg"
   },
   {
-    "revision": "7d32d2fa19d17d6ab9f0e0067bebaf96",
-    "url": "./static/media/dropdown.7d32d2fa.svg"
+    "revision": "50dbd07d8e7428d04464644f7cf819cf",
+    "url": "./static/media/dropdown.50dbd07d.svg"
   },
   {
-    "revision": "b96d70e10dd30a64a0d122603577c8ae",
-    "url": "./static/media/dropup-blue.b96d70e1.svg"
+    "revision": "345dad7494f835eb9ae6c21c2d3a25f4",
+    "url": "./static/media/dropup-blue.345dad74.svg"
   },
   {
     "revision": "50c67f3cdd04281013ef95e92fc7244e",
@@ -268,48 +268,48 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/logoDark.5325d8e7.png"
   },
   {
-    "revision": "674400972753804891ec372652944539",
-    "url": "./static/media/magnifying-glass.67440097.svg"
+    "revision": "52eac682e8d399b4a8d1d48e38a60535",
+    "url": "./static/media/magnifying-glass.52eac682.svg"
   },
   {
-    "revision": "96e464a5c5e92e85b05cb0f2a19c9798",
-    "url": "./static/media/menu.96e464a5.svg"
+    "revision": "22df44f778335e9b3752e0d73c612a59",
+    "url": "./static/media/menu.22df44f7.svg"
   },
   {
     "revision": "023762b6aec2a2249b8fdfb638f00ef3",
     "url": "./static/media/metamask.023762b6.png"
   },
   {
-    "revision": "e8021e51723d455b2f9fa2446808d2a3",
-    "url": "./static/media/plus-blue.e8021e51.svg"
+    "revision": "899a4aa9bf85aba699112cc7cab6578e",
+    "url": "./static/media/plus-blue.899a4aa9.svg"
   },
   {
-    "revision": "d8e0be7d6efb0b53c37eb75e44b35bda",
-    "url": "./static/media/plus-grey.d8e0be7d.svg"
+    "revision": "62281ca8cea976c7f20862db5d12728e",
+    "url": "./static/media/plus-grey.62281ca8.svg"
   },
   {
     "revision": "b234b2bfa0417c7e8711c3a8d17afeec",
     "url": "./static/media/portisIcon.b234b2bf.png"
   },
   {
-    "revision": "1ae4d9f4653371789d98b85139933d27",
-    "url": "./static/media/question-mark.1ae4d9f4.svg"
+    "revision": "1761ff9cb139a2ba2a3a485172eb094c",
+    "url": "./static/media/question-mark.1761ff9c.svg"
   },
   {
-    "revision": "a46e8bc1a36444be83a85007353d692f",
-    "url": "./static/media/question.a46e8bc1.svg"
+    "revision": "63be1e247274b62bc269445bf114d497",
+    "url": "./static/media/question.63be1e24.svg"
   },
   {
-    "revision": "be00fc4a29d03016e78b28c9943e3f51",
-    "url": "./static/media/spinner.be00fc4a.svg"
+    "revision": "a98424922149274b8a364358d02da9fe",
+    "url": "./static/media/spinner.a9842492.svg"
   },
   {
     "revision": "edcc1ab5dde5cb3d5cf134c4aade641b",
     "url": "./static/media/trustWallet.edcc1ab5.png"
   },
   {
-    "revision": "8215855c185176eb79446ce8cc1f3998",
-    "url": "./static/media/walletConnectIcon.8215855c.svg"
+    "revision": "5e81cac236fd057cb686399a8fa2ea57",
+    "url": "./static/media/walletConnectIcon.5e81cac2.svg"
   },
   {
     "revision": "5b8e218668bfea1d44b887bd042f6a52",
