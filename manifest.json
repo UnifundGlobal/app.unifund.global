@@ -1,7 +1,8 @@
 {
   "short_name": "Unifund",
   "name": "Unifund",
-  "icons": [{
+  "icons": [
+    {
       "src": "./images/192x192_App_Icon.png",
       "sizes": "192x192",
       "type": "image/png",
